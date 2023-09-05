@@ -1,0 +1,4 @@
+- 👋 ola, eu sou @PedroFumegali
+- 👀  eu estou interessado em conhecer esta plataforma e aprender a programar
+- 🌱 eu sou estudante do curso de ADS
+- 📫 meu email principal é pedrofumegali.2002@gmail.com
